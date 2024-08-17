@@ -25,6 +25,7 @@ Our diverse tech stack includes:
 - **Data Science**: Python, pandas, NumPy, scikit-learn, TensorFlow
 - **Other Tools**: i18n for internationalization, Jotai and Zustand for state management
 
+<!--
 ## 🤝 Get Involved
 
 Contribute, report issues, or join our discussions on [Discord](#) or [Twitter](#).
@@ -32,6 +33,7 @@ Contribute, report issues, or join our discussions on [Discord](#) or [Twitter](
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
+-->
 
 ## 🙏 Acknowledgements
 
