@@ -4,27 +4,36 @@ Welcome to Pasari Development! We create innovative tech solutions that enhance 
 
 ## 🚀 Our Mission
 
-- **Enhancing Church Operations**
-- **Community Engagement**
-- **Preserving Heritage**
+At Pasari Development, we are committed to:
+- **Enhancing Church Operations**: Developing tools and platforms to streamline and improve the efficiency of church activities, administration, and outreach.
+- **Community Engagement**: Building solutions that foster a stronger connection within the Coptic community, ensuring that all members can engage, participate, and stay informed.
+- **Preserving Heritage**: Utilizing technology to safeguard and promote the rich history, traditions, and teachings of the Coptic Orthodox Church for future generations.
+
 
 ## 🛠️ Our Projects
 
-- **Digital Archives**
-- **Church Management Systems**
-- **Community Apps**
+We work on a variety of projects tailored to meet the unique needs of the Coptic Church and its communities. Some of our key initiatives include:
+- **Digital Archives**: Creating digital repositories to preserve historical documents, liturgical texts, and other important cultural artifacts.
+- **Church Management Systems**: Developing comprehensive platforms to manage church events, records, and communications.
+- **Community Apps**: Building mobile and web applications that connect members of the Coptic community with resources, events, and each other.
 
 ## 💻 Technologies We Use
 
-Our diverse tech stack includes:
-
-- **Frontend**: React, Next.js, React Native (Expo)
-- **Backend**: Node.js, Express, Django, Flask
-- **Database**: MongoDB, PostgreSQL, Supabase
-- **DevOps**: Docker, CI/CD with GitHub Actions
+### Python Tech Stack
+Our Python-based technologies allow us to build powerful and scalable backend services as well as data-driven applications:
+- **Backend Frameworks**: Django, Flask
 - **Data Science**: Python, pandas, NumPy, scikit-learn, TensorFlow
-- **Other Tools**: i18n for internationalization, Jotai and Zustand for state management
+- **Database**: PostgreSQL, MongoDB, Supabase
+- **DevOps**: Docker, CI/CD with GitHub Actions
 
+### JavaScript Tech Stack
+Our JavaScript-based technologies are used for building responsive frontends and dynamic web and mobile applications:
+- **Frontend Frameworks**: React, Next.js, React Native (Expo)
+- **Backend**: Node.js, Express
+- **Cross-Platform Desktop Apps**: Electron.js
+- **Database**: PostgreSQL, MongoDB, Supabase
+- **Other Tools**: i18n for internationalization, Jotai and Zustand for State Management, TanStack Query for data fetching, caching, and synchronizing
+- **DevOps**: Docker, CI/CD with GitHub Actions
 <!--
 ## 🤝 Get Involved
 
